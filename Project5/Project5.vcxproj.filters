@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源1.cpp">
+    <ClCompile Include="leetcode_349th.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="leetcode_350th.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="twosum_1th in leetcode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

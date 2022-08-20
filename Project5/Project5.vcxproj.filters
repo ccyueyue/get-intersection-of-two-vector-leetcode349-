@@ -24,5 +24,8 @@
     <ClCompile Include="twosum_1th in leetcode.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="leetcode_447th.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

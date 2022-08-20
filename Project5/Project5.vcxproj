@@ -142,6 +142,7 @@
   <ItemGroup>
     <ClCompile Include="leetcode_349th.cpp" />
     <ClCompile Include="leetcode_350th.cpp" />
+    <ClCompile Include="leetcode_447th.cpp" />
     <ClCompile Include="twosum_1th in leetcode.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

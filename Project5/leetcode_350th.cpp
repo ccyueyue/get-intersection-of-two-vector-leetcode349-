@@ -30,10 +30,4 @@ int main()
 		std::cout << v1[i] << " ";
 	}
 	std::cout << std::endl;
-	std::map<int, int> mp1;
-	for (int i = 0; i < num.size(); i++) {
-		mp1.insert(std::make_pair(num[i], 0));
-	}
-
-
 }
